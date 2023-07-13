@@ -10,7 +10,7 @@
 - 😄 I prefer Frontend development
 
 
---
+---
 
 ### Languages and tools
 
@@ -33,4 +33,4 @@
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ilyakor657&theme=github_dark" alt=""/>
 </div>
 
---
+---
