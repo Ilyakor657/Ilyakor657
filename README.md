@@ -6,7 +6,8 @@
 
 ### About me
 
-- I keep learning React and Node.js
+- 🧐 I keep learning React and Node.js
+- 😄 I prefer Frontend development
 
 
 ### Languages and tools
