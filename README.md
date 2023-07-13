@@ -1,5 +1,7 @@
 ### Languages and tools
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>&nbsp;
+
 ### My stat
 
 <div id="stat" align="center">
