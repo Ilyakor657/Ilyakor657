@@ -9,7 +9,7 @@
 - 🧐 I keep learning **React** and **Node.js**
 - 😄 I prefer Frontend development
 - My telegram: [@Snowflim](https://t.me/Snowflim)
-- My email: [korolevila15@gmail.com](korolevila15@gmail.com)
+- My email: [korolevila15@gmail.com](mailto:korolevila15@gmail.com)
 
 
 ---
