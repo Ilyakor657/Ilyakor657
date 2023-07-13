@@ -1,7 +1,13 @@
+<div id="header" align="center">
+    <h1>Hello, I'm Ilya</h1>
+    <h3>Beginning Full Stack Developer</h3>
+</div>
+
+
 ### About me
 
+- I keep learning React and Node.js
 
----
 
 ### Languages and tools
 
@@ -13,7 +19,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="60" height="60"/>&nbsp;
 
----
 
 ### My stat
 
