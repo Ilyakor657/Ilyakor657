@@ -3,14 +3,6 @@
     <h3>Beginning Full Stack Developer</h3>
 </div>
 
-
-### About me
-
-- 🧐 I keep learning **React** and **Node.js**
-
-
----
-
 ### Languages and tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>&nbsp;
