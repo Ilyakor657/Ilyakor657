@@ -7,8 +7,6 @@
 ### About me
 
 - 🧐 I keep learning **React** and **Node.js**
-- 😄 I prefer Frontend development
-- My email: [korolevila15@gmail.com](mailto:korolevila15@gmail.com)
 
 
 ---
